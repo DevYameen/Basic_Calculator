@@ -2,7 +2,7 @@
 
 Welcome to the Basic Calculator project! This is a simple yet elegant calculator application built with HTML, CSS, and JavaScript, and served using Node.js. The calculator performs basic arithmetic operations and features a modern, responsive design.
 
-![Calculator Preview]( https://devyameen.github.io/Basic_Calculator/)
+![Calculator Preview](assets/desktop-preview.png)
 
 ## Features
 
@@ -44,8 +44,10 @@ Clear Input: Press the C button to clear the current input.
 Screenshots
 Here are some screenshots of the calculator in action:
 Desktop View:
+ ![Desktop View](assets/desktop.png)
 
 Mobile View:
+![Mobile View](assets/mobile.jpg)
 
 Contributing
 Feel free to contribute to this project by opening issues or submitting pull requests. For detailed instructions on contributing, please refer to the CONTRIBUTING.md file.
