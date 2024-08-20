@@ -2,7 +2,7 @@
 
 Welcome to the Basic Calculator project! This is a simple yet elegant calculator application built with HTML, CSS, and JavaScript, and served using Node.js. The calculator performs basic arithmetic operations and features a modern, responsive design.
 
-![Calculator Preview](assets/desktop-preview.png)
+
 
 ## Features
 
